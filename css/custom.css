@@ -1,5 +1,20 @@
 body {
-  background-color: aqua;
+  background-color: #98aecc;
+}
+
+h2 {
+  font-size: 100px;
+  color: black;
+}
+
+h3 {
+  color: coral;
+  background: beige;
+  height: 100px;
+}
+
+h6 {
+  font-size: 15px;
 }
 
 /*# sourceMappingURL=custom.css.map */
