@@ -2,4 +2,19 @@ body {
   background-color: aqua;
 }
 
+h2 {
+  font-size: 50px;
+  color: black;
+}
+
+h1 {
+  font-style: italic;
+  color: orangered;
+}
+
+h3 {
+  font-size: 80px;
+  color: white;
+}
+
 /*# sourceMappingURL=custom.css.map */
