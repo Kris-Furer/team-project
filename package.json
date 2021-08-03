@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "git lesson for team projects and merge conflicts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kris-Furer/team-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kris-Furer/team-project/issues"
+  },
+  "homepage": "https://github.com/Kris-Furer/team-project#readme",
+  "devDependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
